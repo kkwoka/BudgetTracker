@@ -11,8 +11,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-
-  "devDependencies": {
+  "dependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.5",
     "babel-loader": "^8.1.0",

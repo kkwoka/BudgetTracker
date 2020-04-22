@@ -4,10 +4,9 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "build": "cd public && npm run webpack",
     "prestart": "cd public && npm run webpack",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "heroku-postbuild": "cd public && npm i && npm run webpack"
   },
   "repository": {
     "type": "git",

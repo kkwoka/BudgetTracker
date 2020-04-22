@@ -83,6 +83,7 @@ const FILES_TO_CACHE = [
     event.respondWith(
       caches.match(event.request).then(cachedResponse => {
         if (cachedResponse) {
+          console.log("cached: ",cachedResponse);
           return cachedResponse;
         }
   
