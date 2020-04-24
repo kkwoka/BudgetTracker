@@ -10,21 +10,20 @@ Heroku: https://shrouded-mesa-03805.herokuapp.com/
   ## Table of Contents 
   * [Installation](#installation)
   ​
-  * [Usage](#usage)
+  * [Gif](#Gif)
   ​  ​
   * [Questions](#questions)
   ​
+  
   ## Installation
   ​
   To install necessary dependencies, run the following command:
   ```
   npm i
   ```
-  ## Usage
-  ​
-  
-  ​
- 
+
+  ## Gif
+  ![Gif](test3.gif)
 
  
   ## Questions
